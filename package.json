@@ -49,7 +49,7 @@
     "fs-extra": "^4.0.3",
     "history": "^4.6.3",
     "htmlescape": "^1.1.1",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.19",
     "lodash-webpack-plugin": "^0.11.4",
     "minimist": "^1.2.3",
     "mobx": "^4.1.0",
