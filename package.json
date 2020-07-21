@@ -92,7 +92,7 @@
     "redux-devtools-extension": "^2.13.2",
     "redux-logger": "^3.0.6",
     "redux-saga-test-plan": "^3.3.1",
-    "webpack-bundle-analyzer": "^2.10.0",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-dev-middleware": "^1.12.2",
     "webpack-hot-middleware": "^2.21.0",
     "webpack-hot-server-middleware": "^0.1.0",
