@@ -43,7 +43,7 @@
     "emotion": "^8.0.12",
     "emotion-server": "^8.0.12",
     "emotion-theming": "^8.0.12",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "express-no-favicons": "^0.0.1",
     "extract-css-chunks-webpack-plugin": "^2.0.18",
     "fs-extra": "^4.0.3",
